@@ -1,2 +1,4 @@
 # Program
-![Desktop](fcfs.png)
+![Myscreen](fcfs.png)
+## Output
+![Myscreen](fcfs out.png)
