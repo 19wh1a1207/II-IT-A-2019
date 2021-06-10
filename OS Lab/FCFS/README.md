@@ -1,4 +1,4 @@
 # Program
 ![Myscreen](fcfs.png)
 ## Output
-![Myscreen](fcfs out.png)
+![Myscreen](fcfs_out.png)
