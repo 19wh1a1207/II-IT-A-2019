@@ -1,1 +1,2 @@
-
+## Output
+![myScreen](ThrowOut.jpeg)
