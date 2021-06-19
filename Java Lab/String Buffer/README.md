@@ -1,1 +1,2 @@
-
+## Output
+![MyScreen](StringBufferOut.jpeg)
